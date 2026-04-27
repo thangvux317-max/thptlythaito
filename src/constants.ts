@@ -1,5 +1,5 @@
 /**
- * Demo data for THPT Lý Thái Tổ AI
+ * Demo data for thptlytaito271ai
  */
 
 export const UNIVERSITY_SCORES = [

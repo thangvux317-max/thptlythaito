@@ -68,7 +68,7 @@ const Navbar = () => {
             "font-display font-bold text-lg md:text-xl hidden sm:block",
             isScrolled ? "text-school-blue" : "text-school-blue"
           )}>
-            THPT Lý Thái Tổ AI
+            thptlytaito271ai
           </span>
         </a>
 
@@ -143,7 +143,7 @@ const Hero = () => {
             <span>EduTech Platform 2026</span>
           </div>
           <h1 className="text-5xl md:text-7xl font-display font-bold text-slate-900 leading-tight mb-6">
-            Học tập thông minh cùng <span className="text-school-blue">Lý Thái Tổ AI</span>
+            Học tập thông minh cùng <span className="text-school-blue">thptlytaito271ai</span>
           </h1>
           <p className="text-lg text-slate-600 mb-8 max-w-lg leading-relaxed">
             Trợ lý ảo đồng hành cùng học sinh trường THPT Lý Thái Tổ trong học tập, tra cứu thông tin và định hướng tương lai.
@@ -241,7 +241,7 @@ const AIChat = () => {
               <MessageSquare size={20} />
             </div>
             <div>
-              <p className="font-bold">Lý Thái Tổ AI Chat</p>
+              <p className="font-bold">thptlytaito271ai Chat</p>
               <p className="text-xs text-blue-100 flex items-center gap-1">
                 <span className="w-2 h-2 bg-green-400 rounded-full animate-pulse" /> Online
               </p>
@@ -647,7 +647,7 @@ const Footer = () => {
           <div className="col-span-2">
             <div className="flex items-center gap-3 mb-6">
               <div className="w-10 h-10 bg-school-blue rounded-full flex items-center justify-center text-white font-bold text-xl">L</div>
-              <span className="font-display font-bold text-2xl">THPT Lý Thái Tổ AI</span>
+              <span className="font-display font-bold text-2xl">thptlytaito271ai</span>
             </div>
             <p className="text-slate-400 max-w-md leading-relaxed mb-6">
               Hệ thống giáo dục Lý Thái Tổ luôn tiên phong trong việc ứng dụng công nghệ vào giảng dạy và học tập, giúp học sinh phát triển toàn diện trong kỷ nguyên số.
@@ -716,7 +716,7 @@ const About = () => {
           </div>
           
           <div>
-            <h2 className="text-3xl md:text-4xl font-display font-bold text-slate-900 mb-6">Chào mừng đến với THPT Lý Thái Tổ</h2>
+            <h2 className="text-3xl md:text-4xl font-display font-bold text-slate-900 mb-6">Chào mừng đến với thptlytaito271ai</h2>
             <p className="text-lg text-slate-600 mb-6 leading-relaxed">
               Trường Trung học phổ thông Lý Thái Tổ tự hào là một trong những cơ sở giáo dục uy tín tại Hải Phòng. Với sứ mệnh bồi dưỡng nhân tài, trang bị kiến thức và kỹ năng đáp ứng yêu cầu của thế kỷ 21, chúng tôi chắp cánh ước mơ cho bao thế hệ học sinh.
             </p>

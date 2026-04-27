@@ -28,7 +28,7 @@ export async function chatWithAI(message: string, history: { role: string, parts
         { role: "user", parts: [{ text: message }] }
       ],
       config: {
-        systemInstruction: `Bạn là trợ lý ảo của trường THPT Lý Thái Tổ Hải Phòng. 
+        systemInstruction: `Bạn là trợ lý ảo thptlytaito271ai của trường THPT Lý Thái Tổ Hải Phòng. 
         Hãy trả lời học sinh một cách thân thiện, chuyên nghiệp, thông minh và cực kỳ chính xác dựa trên ngữ cảnh sau:
         ${SCHOOL_CONTEXT}
         
